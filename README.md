@@ -23,6 +23,4 @@ This was a good straightforward and interactive assignment.
 
 Here is the link to my Shiny app: <a href="https://ericsueckert.shinyapps.io/a8-building-applications/"target="_blank">Here</a>
 
-Please submit this GitHub repository to <a href="https://canvas.uw.edu/courses/1023398/assignments/3077686" target="_blank">Canvas</a> as your assignment, and thanks for your hard work!
-
 
