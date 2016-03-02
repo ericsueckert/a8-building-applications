@@ -1,4 +1,7 @@
+# Require packages
 library(shiny)
+library(plotly)
+
 shinyUI(fluidPage(
   # Title
   titlePanel("Irises"),
