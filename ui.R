@@ -13,7 +13,8 @@ shinyUI(fluidPage(
     # Select species
     selectInput(inputId = "species",
       label = "Species",
-      choices = c("Setosa" = "setosa", "Versicolor" = "versicolor", "Virginica" = "virginica", "All" = "all"),
+      choices = c("Setosa" = "setosa", "Versicolor" = "versicolor", 
+                  "Virginica" = "virginica", "All" = "all"),
       selected = "setosa"),
     # Select dimension 1
     selectInput(inputId = "dim1",
